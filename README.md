@@ -1,2 +1,2 @@
-# Face_Recognition_Attendence_System
-Detect the student face for marking the attendance
+# Face_Recognition_Attendance_System
+Detect the student's face for marking the attendance
